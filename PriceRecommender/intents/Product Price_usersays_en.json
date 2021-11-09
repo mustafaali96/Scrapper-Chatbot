@@ -1,0 +1,220 @@
+[
+  {
+    "id": "203997f1-4069-4b89-b2e6-3c90917bfa36",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "Fascino- Aster",
+        "meta": "@sys.any",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " available at ",
+        "userDefined": false
+      },
+      {
+        "text": "BaGallery",
+        "meta": "@sys.any",
+        "alias": "site",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9f8878d-31dc-43af-926b-3e55d16dec00",
+    "data": [
+      {
+        "text": "check if ",
+        "userDefined": false
+      },
+      {
+        "text": "Shein- Belt With Round Metal Buckle",
+        "meta": "@sys.any",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " available at ",
+        "userDefined": false
+      },
+      {
+        "text": "BaGallery",
+        "meta": "@sys.any",
+        "alias": "site",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c00ad4e-c200-4061-8a91-b30ca8100a0d",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "Shein- Belted High Waist Wide Leg Pants",
+        "meta": "@sys.any",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5445493f-fe07-49ae-a9bd-bc0c59dd80c6",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "Shein- Belt With Round Metal Buckle",
+        "meta": "@sys.any",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9343eac8-ef49-451a-ac09-34753ffcbc3b",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Blue Textured Kurta Pajama For Kids - 2",
+        "meta": "@sys.any",
+        "alias": "product",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "PurchaseValley",
+        "meta": "@sys.any",
+        "alias": "site",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9da6a49-8564-4292-aca9-18c240be190f",
+    "data": [
+      {
+        "text": "check on ",
+        "userDefined": false
+      },
+      {
+        "text": "PurchaseValley",
+        "meta": "@sys.any",
+        "alias": "site",
+        "userDefined": true
+      },
+      {
+        "text": " if ",
+        "userDefined": false
+      },
+      {
+        "text": "Coral Tree Casual Shirt",
+        "meta": "@sys.any",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " is available at a discount?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d87964cf-deb4-4712-851b-14daaed1efa1",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "Shein- Pleated Bow Solid Skirt",
+        "meta": "@sys.any",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " available at ",
+        "userDefined": false
+      },
+      {
+        "text": "BaGallery",
+        "meta": "@sys.any",
+        "alias": "site",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e529067a-09d1-4209-8723-acb89320b0f2",
+    "data": [
+      {
+        "text": "i\u0027m looking for ",
+        "userDefined": false
+      },
+      {
+        "text": "Modanisa- Navy Blue - Crew neck - Unlined - Modest Dress",
+        "meta": "@sys.any",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

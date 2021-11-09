@@ -1,0 +1,70 @@
+{
+  "id": "237294d8-cde6-4829-b71d-c9ca50863ff2",
+  "name": "Product Price",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "87688790-5209-4a74-bc38-59da417838b3",
+          "name": "product",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$product",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What are you looking for?"
+            },
+            {
+              "lang": "en",
+              "value": "Enter Product name you want to search"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "154284e8-6b15-445d-8b3e-b6c4599c2e72",
+          "name": "site",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$site",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
