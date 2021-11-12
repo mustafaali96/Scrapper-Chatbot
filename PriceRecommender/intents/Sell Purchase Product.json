@@ -1,6 +1,6 @@
 {
-  "id": "237294d8-cde6-4829-b71d-c9ca50863ff2",
-  "name": "Product Price",
+  "id": "f1589079-c4ad-43b4-bc55-b4bbd8195b72",
+  "name": "Sell Purchase Product",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -10,21 +10,17 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "6c314338-b8f2-4ad0-898b-364513962eae",
-          "name": "product",
+          "id": "23594453-2bbc-4133-9460-b72634ebd295",
+          "name": "category",
           "required": true,
           "dataType": "@sys.any",
-          "value": "$product",
+          "value": "$category",
           "defaultValue": "",
           "isList": false,
           "prompts": [
             {
               "lang": "en",
-              "value": "What are you looking for?"
-            },
-            {
-              "lang": "en",
-              "value": "Enter Product name you want to search"
+              "value": "Which product you are looking for? (belt, shirt, kurta)"
             }
           ],
           "promptMessages": [],
@@ -33,7 +29,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "f8a3fc86-7d0c-4f16-98b6-66c711907795",
+          "id": "9364f574-c495-4507-80bc-f9a8e5ec968a",
           "name": "site",
           "required": false,
           "dataType": "@sys.any",

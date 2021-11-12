@@ -1,273 +1,23 @@
 [
   {
-    "id": "0571fbbf-6358-4523-8153-79a48ba0f8af",
+    "id": "39130e69-01ea-4162-9b52-65fe14242972",
     "data": [
       {
-        "text": "I\u0027m looking for",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "en",
-    "updated": 0
-  },
-  {
-    "id": "cf5bd4be-e338-4efe-a935-417292491614",
-    "data": [
-      {
-        "text": "check if ",
+        "text": "At what price should I sell ",
         "userDefined": false
       },
       {
-        "text": "Sifona- SLP-10 Linen Pret",
+        "text": "kurta",
         "meta": "@sys.any",
-        "alias": "product",
+        "alias": "category",
         "userDefined": true
-      },
-      {
-        "text": " available?",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "en",
-    "updated": 0
-  },
-  {
-    "id": "a39af43f-a45b-4b84-bb74-9d01234365d1",
-    "data": [
-      {
-        "text": "check if ",
-        "userDefined": false
-      },
-      {
-        "text": "Defacto- Longline Shirt",
-        "meta": "@sys.any",
-        "alias": "product",
-        "userDefined": true
-      },
-      {
-        "text": " available",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "en",
-    "updated": 0
-  },
-  {
-    "id": "698e2306-7e65-4fbc-a408-b91b5084ed89",
-    "data": [
-      {
-        "text": "check if ",
-        "userDefined": false
-      },
-      {
-        "text": "Fascino- Aster",
-        "meta": "@sys.any",
-        "alias": "product",
-        "userDefined": true
-      },
-      {
-        "text": " available on ",
-        "userDefined": false
-      },
-      {
-        "text": "BaGallery",
-        "meta": "@sys.any",
-        "alias": "site",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "en",
-    "updated": 0
-  },
-  {
-    "id": "acf08136-3c1d-44d0-9d50-2f225b82a7ae",
-    "data": [
-      {
-        "text": "check if ",
-        "userDefined": false
-      },
-      {
-        "text": "Asos- Collusion Plus Raglan Rib Shrunken Short Sleeve T-Shirt In Pink \u0026 Green",
-        "meta": "@sys.any",
-        "alias": "product",
-        "userDefined": true
-      },
-      {
-        "text": " available on ",
-        "userDefined": false
-      },
-      {
-        "text": "BaGallery",
-        "meta": "@sys.any",
-        "alias": "site",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "en",
-    "updated": 0
-  },
-  {
-    "id": "1f8acf0b-3226-45d7-a278-c6ab54a23e19",
-    "data": [
-      {
-        "text": "check if ",
-        "userDefined": false
-      },
-      {
-        "text": "BTW- Peace",
-        "meta": "@sys.any",
-        "alias": "product",
-        "userDefined": true
-      },
-      {
-        "text": " is available at ",
-        "userDefined": false
-      },
-      {
-        "text": "BaGallery",
-        "meta": "@sys.any",
-        "alias": "site",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "en",
-    "updated": 0
-  },
-  {
-    "id": "203997f1-4069-4b89-b2e6-3c90917bfa36",
-    "data": [
-      {
-        "text": "is ",
-        "userDefined": false
-      },
-      {
-        "text": "Fascino- Aster",
-        "meta": "@sys.any",
-        "alias": "product",
-        "userDefined": true
-      },
-      {
-        "text": " available at ",
-        "userDefined": false
-      },
-      {
-        "text": "BaGallery",
-        "meta": "@sys.any",
-        "alias": "site",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "en",
-    "updated": 0
-  },
-  {
-    "id": "f9f8878d-31dc-43af-926b-3e55d16dec00",
-    "data": [
-      {
-        "text": "check if ",
-        "userDefined": false
-      },
-      {
-        "text": "Shein- Belt With Round Metal Buckle",
-        "meta": "@sys.any",
-        "alias": "product",
-        "userDefined": true
-      },
-      {
-        "text": " available at ",
-        "userDefined": false
-      },
-      {
-        "text": "BaGallery",
-        "meta": "@sys.any",
-        "alias": "site",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "en",
-    "updated": 0
-  },
-  {
-    "id": "4c00ad4e-c200-4061-8a91-b30ca8100a0d",
-    "data": [
-      {
-        "text": "is ",
-        "userDefined": false
-      },
-      {
-        "text": "Shein- Belted High Waist Wide Leg Pants",
-        "meta": "@sys.any",
-        "alias": "product",
-        "userDefined": true
-      },
-      {
-        "text": " available",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "en",
-    "updated": 0
-  },
-  {
-    "id": "5445493f-fe07-49ae-a9bd-bc0c59dd80c6",
-    "data": [
-      {
-        "text": "is ",
-        "userDefined": false
-      },
-      {
-        "text": "Shein- Belt With Round Metal Buckle",
-        "meta": "@sys.any",
-        "alias": "product",
-        "userDefined": true
-      },
-      {
-        "text": " available?",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "en",
-    "updated": 0
-  },
-  {
-    "id": "9343eac8-ef49-451a-ac09-34753ffcbc3b",
-    "data": [
-      {
-        "text": "find ",
-        "userDefined": false
-      },
-      {
-        "text": "Blue Textured Kurta Pajama For Kids - 2",
-        "meta": "@sys.any",
-        "alias": "product",
-        "userDefined": false
       },
       {
         "text": " on ",
         "userDefined": false
       },
       {
-        "text": "PurchaseValley",
+        "text": "purchasevalley",
         "meta": "@sys.any",
         "alias": "site",
         "userDefined": true
@@ -279,57 +29,24 @@
     "updated": 0
   },
   {
-    "id": "c9da6a49-8564-4292-aca9-18c240be190f",
+    "id": "10097ea8-11b8-4814-87d8-e21dcae16a0f",
     "data": [
       {
-        "text": "check on ",
+        "text": "At what price should I sell ",
         "userDefined": false
       },
       {
-        "text": "PurchaseValley",
+        "text": "kurta",
         "meta": "@sys.any",
-        "alias": "site",
+        "alias": "category",
         "userDefined": true
       },
       {
-        "text": " if ",
+        "text": " on ",
         "userDefined": false
       },
       {
-        "text": "Coral Tree Casual Shirt",
-        "meta": "@sys.any",
-        "alias": "product",
-        "userDefined": true
-      },
-      {
-        "text": " is available at a discount?",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "en",
-    "updated": 0
-  },
-  {
-    "id": "d87964cf-deb4-4712-851b-14daaed1efa1",
-    "data": [
-      {
-        "text": "is ",
-        "userDefined": false
-      },
-      {
-        "text": "Shein- Pleated Bow Solid Skirt",
-        "meta": "@sys.any",
-        "alias": "product",
-        "userDefined": true
-      },
-      {
-        "text": " available at ",
-        "userDefined": false
-      },
-      {
-        "text": "BaGallery",
+        "text": "purchasevalley",
         "meta": "@sys.any",
         "alias": "site",
         "userDefined": true
@@ -345,16 +62,291 @@
     "updated": 0
   },
   {
-    "id": "e529067a-09d1-4209-8723-acb89320b0f2",
+    "id": "245dbd97-302f-48ab-8cd8-46d0c77d72eb",
     "data": [
       {
-        "text": "i\u0027m looking for ",
+        "text": "At which price I should sell ",
         "userDefined": false
       },
       {
-        "text": "Modanisa- Navy Blue - Crew neck - Unlined - Modest Dress",
+        "text": "shirt",
         "meta": "@sys.any",
-        "alias": "product",
+        "alias": "category",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "purchasevalley",
+        "meta": "@sys.any",
+        "alias": "site",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53d8417a-9dc4-456c-9bf2-0d0cedf5f4b5",
+    "data": [
+      {
+        "text": "what is the best price to sell on ",
+        "userDefined": false
+      },
+      {
+        "text": "Bagallery",
+        "meta": "@sys.any",
+        "alias": "site",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4762a6d5-61f8-4649-a3e7-b2de1bd38633",
+    "data": [
+      {
+        "text": "what is the best price to sell on ",
+        "userDefined": false
+      },
+      {
+        "text": "purchase valley",
+        "meta": "@sys.any",
+        "alias": "site",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab0e8d86-901b-43df-a315-ea22beec2b4c",
+    "data": [
+      {
+        "text": "At which price I should sell ",
+        "userDefined": false
+      },
+      {
+        "text": "shirt",
+        "meta": "@sys.any",
+        "alias": "category",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "bagallery",
+        "meta": "@sys.any",
+        "alias": "site",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be9b81fb-996d-446d-bb8b-13ce0b477515",
+    "data": [
+      {
+        "text": "At which price I should sell ",
+        "userDefined": false
+      },
+      {
+        "text": "shirt",
+        "meta": "@sys.any",
+        "alias": "category",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "bagallery",
+        "meta": "@sys.any",
+        "alias": "site",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67f22805-9a0f-4b1a-8c27-df5a612326ae",
+    "data": [
+      {
+        "text": "i want to buy ",
+        "userDefined": false
+      },
+      {
+        "text": "shirt",
+        "meta": "@sys.any",
+        "alias": "category",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "Bagallery",
+        "meta": "@sys.any",
+        "alias": "site",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df64e752-1b1c-4e4e-a080-6044c54825db",
+    "data": [
+      {
+        "text": "I want to sell on ",
+        "userDefined": false
+      },
+      {
+        "text": "purchase valley",
+        "meta": "@sys.any",
+        "alias": "site",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7563febb-02f9-40fa-bc46-2aef933ebe73",
+    "data": [
+      {
+        "text": "At which price I should sell ",
+        "userDefined": false
+      },
+      {
+        "text": "pent",
+        "meta": "@sys.any",
+        "alias": "category",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8ac7667-79c6-4d91-a39a-5459123ac139",
+    "data": [
+      {
+        "text": "what is the best price to sell ",
+        "userDefined": false
+      },
+      {
+        "text": "kurta",
+        "meta": "@sys.any",
+        "alias": "category",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e65fe85d-b334-4fe4-a916-378e9e82afbd",
+    "data": [
+      {
+        "text": "I want to sell ",
+        "userDefined": false
+      },
+      {
+        "text": "belt",
+        "meta": "@sys.any",
+        "alias": "category",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Bagallery",
+        "meta": "@sys.any",
+        "alias": "site",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec66804d-97e9-4c74-bf6f-befde3da3278",
+    "data": [
+      {
+        "text": "At which price I should sell ",
+        "userDefined": false
+      },
+      {
+        "text": "pent",
+        "meta": "@sys.any",
+        "alias": "category",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b87b1213-80d0-4a8a-871d-b8344ce518e3",
+    "data": [
+      {
+        "text": "what is the best price to sell ",
+        "userDefined": false
+      },
+      {
+        "text": "shirt",
+        "meta": "@sys.any",
+        "alias": "category",
         "userDefined": true
       }
     ],
